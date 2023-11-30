@@ -6,7 +6,7 @@
 
 <br>
 
-👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full-Stack na Alura.
+👨🏻‍🎓 Estudante de graduação em Ciência da Computação na faculdade Anhembi Morumbi e realizando curso complementar em desenvolvimento Full-Stack na Rocketseat.
 
 💻 Apaixonado por tecnologia e pela área de desenvolvimento web, buscando evoluir tanto no front-end quanto back-end.
 
